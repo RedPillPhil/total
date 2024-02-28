@@ -1141,7 +1141,7 @@
 			}
 
 			function nC() {
-				var e = (0, U.Z)(["\n  margin-top: ", ";\n  margin: ", ";\n\n  padding-top: 16px;\n  padding-bottom: 16px;\n  width: 90%;\n  max-width: 400px;\n  // border-radius: 20px;\n  background-color: #013120;\n  transform: ", ";\n  transition: transform 300ms ease-in-out;\n"]);
+				var e = (0, U.Z)(["\n  margin-top: ", ";\n  margin: ", ";\n\n  padding-top: 16px;\n  padding-bottom: 16px;\n  width: 90%;\n  max-width: 400px;\n  // border-radius: 20px;\n  background-color: #ffffff;\n  transform: ", ";\n  transition: transform 300ms ease-in-out;\n"]);
 				return nC = function() {
 					return e
 				}, e
