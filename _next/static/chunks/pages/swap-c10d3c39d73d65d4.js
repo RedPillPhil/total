@@ -1406,13 +1406,14 @@
                     alignItems: "center",
                     width: "100%",
                     marginBottom: 15,
+                    backgroundColor: "black",
                     children: [
                         (0, l.jsx)(ej.H.CurrencyInputHeaderTitle, {
                             children: i
                         }),
                         (0, l.jsx)("a", {
                             href: "https://example.com",
-                            style: {marginTop:"10px"},
+                            style: {marginTop:"10px", color:"yellow"},
                             children: "(Click here to swap other tokens)"
                         })
                     ]
