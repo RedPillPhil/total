@@ -48,12 +48,12 @@
     --colors-light-white:#fff;
     --colors-light-failure:#e34234;
     --colors-light-failure33:#ed4b9e33;
-    --colors-light-primary:#ffffff;
+    --colors-light-primary:#00f666;
     --colors-light-primary0f:#1fc7d40f;
     --colors-light-primary3D:#1fc7d43d;
     --colors-light-primaryBright:#53dee9;
     --colors-light-primaryDark:#0098a1;
-    --colors-light-success:#ffffff;
+    --colors-light-success:#00f666;
     --colors-light-success19:#31d0aa19;
     --colors-light-warning:#ffb237;
     --colors-light-warning2D:#ed4b9e2d;
@@ -69,7 +69,7 @@
     --colors-light-backgroundDisabled: ;
     --colors-light-backgroundAlt:#fff;
     --colors-light-backgroundAlt2:hsla(0,0%,100%,.7);
-    --colors-light-cardBorder:#ffffff;
+    --colors-light-cardBorder:#00f666;
     --colors-light-contrast:#191326;
     --colors-light-dropdown:#f6f6f6;
     --colors-light-dropdownDeep:#eee;
@@ -93,12 +93,12 @@
     --colors-dark-white:#fff;
     --colors-dark-failure:#e34234;
     --colors-dark-failure33:#ed4b9e33;
-    --colors-dark-primary:#ffffff;
+    --colors-dark-primary:#00f666;
     --colors-dark-primary0f:#1fc7d40f;
     --colors-dark-primary3D:#1fc7d43d;
     --colors-dark-primaryBright:#53dee9;
     --colors-dark-primaryDark:#0098a1;
-    --colors-dark-success:#ffffff;
+    --colors-dark-success:#00f666;
     --colors-dark-success19:#31d0aa19;
     --colors-dark-warning:#ffb237;
     --colors-dark-warning2D:#ed4b9e2d;
@@ -108,7 +108,7 @@
     --colors-dark-gold:#ffc700;
     --colors-dark-silver:#b2b2b2;
     --colors-dark-bronze:#e7974d;
-    --colors-dark-secondary:#ffffff;
+    --colors-dark-secondary:#00f666;
     --colors-dark-secondary80:#9a6aff80;
     --colors-dark-background:#000;
     --colors-dark-backgroundDisabled:#3b4237;
@@ -119,9 +119,9 @@
     --colors-dark-dropdown:#1e1d20;
     --colors-dark-dropdownDeep:#100c18;
     --colors-dark-invertedContrast:#191326;
-    --colors-dark-input:#ffffff;
+    --colors-dark-input:#013120;
     --colors-dark-inputSecondary:#262130;
-    --colors-dark-tertiary:#ffffff;
+    --colors-dark-tertiary:#001d13;
     --colors-dark-text:#fff;
     --colors-dark-text99:#f4eeff99;
     --colors-dark-textDisabled:#617165;
@@ -134,7 +134,7 @@
     --colors-dark-gradientViolet:linear-gradient(180deg,#6c4999,#6d4db2);
     --colors-dark-gradientVioletAlt:linear-gradient(180deg,#434575,#66578d);
     --colors-dark-gradientGold:linear-gradient(180deg,#ffd800,#fdab32);
-    --colors-dark-gradientBold:radial-gradient(52.44% 52.44% at 50.26% 115.85%,#ffffff 0%,rgba(0,246,102,0) 100%);
+    --colors-dark-gradientBold:radial-gradient(52.44% 52.44% at 50.26% 115.85%,#00f666 0%,rgba(0,246,102,0) 100%);
     --fonts-mono:SFMono,ui-monospace,monospace;
     --space-0:0px;
     --space-1:4px;
@@ -177,10 +177,10 @@
     --fontSizes-20px:20px;
     --fontSizes-40px:40px;
     --shadows-level1:0px 2px 12px -8px rgba(25,19,38,.1),0px 1px 1px rgba(25,19,38,.05);
-    --shadows-active:0px 0px 0px 1px #ffffff,0px 0px 4px 5px #ffffff;
+    --shadows-active:0px 0px 0px 1px #00f666,0px 0px 4px 5px #00f666;
     --shadows-success:0px 0px 0px 1px #31d0aa,0px 0px 0px 4px rgba(49,208,170,.2);
     --shadows-warning:0px 0px 0px 1px #ed4b9e,0px 0px 0px 4px rgba(237,75,158,.2);
-    --shadows-focus:0px 0px 0px 1px #ffffff,0px 0px 4px 5px #ffffff;
+    --shadows-focus:0px 0px 0px 1px #00f666,0px 0px 4px 5px #00f666;
     --shadows-inset:inset 0px 2px 2px -1px rgba(74,74,104,.1);
     --shadows-tooltip:0px 0px 2px rgba(0,0,0,.2),0px 4px 12px -8px rgba(14,14,44,.1)
 }
@@ -188,12 +188,12 @@
     --colors-white:#fff;
     --colors-failure:#e34234;
     --colors-failure33:#ed4b9e33;
-    --colors-primary:#ffffff;
+    --colors-primary:#00f666;
     --colors-primary0f:#1fc7d40f;
     --colors-primary3D:#1fc7d43d;
     --colors-primaryBright:#53dee9;
     --colors-primaryDark:#0098a1;
-    --colors-success:#ffffff;
+    --colors-success:#00f666;
     --colors-success19:#31d0aa19;
     --colors-warning:#ffb237;
     --colors-warning2D:#ed4b9e2d;
@@ -209,7 +209,7 @@
     --colors-backgroundDisabled: ;
     --colors-backgroundAlt:#fff;
     --colors-backgroundAlt2:hsla(0,0%,100%,.7);
-    --colors-cardBorder:#ffffff;
+    --colors-cardBorder:#00f666;
     --colors-contrast:#191326;
     --colors-dropdown:#f6f6f6;
     --colors-dropdownDeep:#eee;
@@ -235,12 +235,12 @@
     --colors-white:#fff;
     --colors-failure:#e34234;
     --colors-failure33:#ed4b9e33;
-    --colors-primary:#ffffff;
+    --colors-primary:#00f666;
     --colors-primary0f:#1fc7d40f;
     --colors-primary3D:#1fc7d43d;
     --colors-primaryBright:#53dee9;
     --colors-primaryDark:#0098a1;
-    --colors-success:#ffffff;
+    --colors-success:#00f666;
     --colors-success19:#31d0aa19;
     --colors-warning:#ffb237;
     --colors-warning2D:#ed4b9e2d;
@@ -250,7 +250,7 @@
     --colors-gold:#ffc700;
     --colors-silver:#b2b2b2;
     --colors-bronze:#e7974d;
-    --colors-secondary:#ffffff;
+    --colors-secondary:#00f666;
     --colors-secondary80:#9a6aff80;
     --colors-background:#000;
     --colors-backgroundDisabled:#3b4237;
@@ -261,7 +261,7 @@
     --colors-dropdown:#1e1d20;
     --colors-dropdownDeep:#100c18;
     --colors-invertedContrast:#191326;
-    --colors-input:#ffffff;
+    --colors-input:#013120;
     --colors-inputSecondary:#262130;
     --colors-tertiary:#001d13;
     --colors-text:#fff;
@@ -276,7 +276,7 @@
     --colors-gradientViolet:linear-gradient(180deg,#6c4999,#6d4db2);
     --colors-gradientVioletAlt:linear-gradient(180deg,#434575,#66578d);
     --colors-gradientGold:linear-gradient(180deg,#ffd800,#fdab32);
-    --colors-gradientBold:radial-gradient(52.44% 52.44% at 50.26% 115.85%,#ffffff 0%,rgba(0,246,102,0) 100%)
+    --colors-gradientBold:radial-gradient(52.44% 52.44% at 50.26% 115.85%,#00f666 0%,rgba(0,246,102,0) 100%)
 }
 ._1nzuaz70{
     display:block
