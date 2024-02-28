@@ -1406,7 +1406,6 @@
                     alignItems: "center",
                     width: "100%",
                     marginBottom: 15,
-                    backgroundColor: "black",
                     children: [
                         (0, l.jsx)(ej.H.CurrencyInputHeaderTitle, {
                             children: i
@@ -4017,7 +4016,12 @@
 					}), (0, l.jsxs)(ni.im, {
 						id: "swap-page",
 						style: {
-							minHeight: "412px"
+							minHeight: "412px",
+            background: "linear-gradient(to bottom, #333333, #666666)", // Dark to light grey gradient
+            boxShadow: "inset 0 0 10px #999999", // Inner shadow for depth effect
+            borderRadius: "0px", // Rounded corners
+            border: "1px solid #999999", // Border for separation
+            padding: "20px" // Add padding for inner content
 						},
 						children: [(0, l.jsxs)(eN.Tz, {
 							gap: "sm",
